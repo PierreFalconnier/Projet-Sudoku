@@ -26,3 +26,14 @@ Communication avec la carte Arduino
 
 ObtenirCourbesChiffres :
 Définition des courbes des chiffres
+
+
+Versions sur Raspberry :
+
+Python - 3.9.2
+tflite-runtime==2.5.0.post1
+numpy==1.22.3
+RPi.GPIO==0.7.0
+open-cv - 4.5.5
+
+
